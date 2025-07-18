@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a school SaaS product<br>👯 I’m looking to collaborate on web development projects and open source<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning express.js<br>💬 Drop a follow on Instagram<br>⚡ Fun fact I'm a content creator => @sabiiii.fx
+🔭 I’m currently working on a CyberSecurity SaaS product<br>👯 I’m looking to collaborate on web development projects and open source<br>🤝 I’m looking for help with AI<br>🌱 I’m currently learning Python Advanced<br>💬 Drop a follow on Instagram<br>⚡ Fun fact I'm a content creator => @sabiiii.fx
 
 
 ## 🌐 Socials:
